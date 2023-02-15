@@ -1,0 +1,1 @@
+setTimeout (()=>{alert("alert")},2000)
